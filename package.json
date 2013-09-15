@@ -1,0 +1,24 @@
+{
+  "name": "web-linking",
+  "version": "0.0.1",
+  "description": "module for working with web links as described in rfc2616",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aogriffiths/web-linking.git"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "web",
+    "link",
+    "linking",
+    "rfc2616",
+    "http"
+  ],
+  "author": "Adam Griffiths",
+  "license": "MIT"
+}
