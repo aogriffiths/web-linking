@@ -3,7 +3,7 @@ web-linking
 
 Module for working with web links as described in rfc2616
 
-
+	''' javascript
     var linking = require('../lib/main.js');
     var httpheaderlinking = linking.httpheader;
 
@@ -33,3 +33,4 @@ Module for working with web links as described in rfc2616
          ];
          httpheaderlinking.setToResponse(res, link);    	
     }
+    '''
